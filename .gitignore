@@ -1,3 +1,6 @@
+# file .tmp
+*.tmp
+
 # Compiled class file
 *.class
 
